@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"mylang/internal/evaluator"
-	"mylang/internal/lexer"
-	"mylang/internal/parser"
+	"my-language/internal/evaluator"
+	"my-language/internal/lexer"
+	"my-language/internal/parser"
 	"os"
 )
 
